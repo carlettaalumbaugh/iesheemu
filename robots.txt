@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ukaemunaix.elastic-coders.com/sitemap.xml
